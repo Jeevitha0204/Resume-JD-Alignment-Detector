@@ -51,12 +51,12 @@ gradio
 sentence-transformers
 scikit-learn
 
-## Example input and output
-#Resume
+## Example input 
+#Resume: 
 Experienced Data Scientist with expertise in Python, SQL, NLP, and model deployment. Built recommendation engines and deployed models using Hugging Face and Streamlit.
-#Job description
+#Job description: 
 We are hiring a Data Scientist with hands-on experience in NLP, Python, and model deployment using Hugging Face or Streamlit. Knowledge of recommendation systems is a plus.
-#output
+## output
 Similarity Score: 86.75%
 Resume is highly aligned with the Job Description.
 
